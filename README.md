@@ -55,7 +55,3 @@ Although UI implementations change frequently, **high-level testing intent remai
 - **Reporter Agent**  
   Aggregates execution outcomes into structured, human-readable summaries for developers.
 
-
-## Example Test Case
-
-### Input (Natural Language Goal)
