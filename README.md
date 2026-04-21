@@ -3,6 +3,12 @@
 
 ---
 
+## Poster
+
+![AutonomQA Poster](poster.png)
+
+---
+
 ## Overview
 **AutonomQA** is an autonomous, multi-agent web testing framework powered by Large Language Models (LLMs). It transforms **natural-language testing goals** into executable browser-based test cases, adapts dynamically to UI and DOM changes, and produces human-readable test reports without relying on brittle, hand-written scripts.
 
